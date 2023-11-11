@@ -25,8 +25,8 @@
 
    5. Clone Repo and install required packages
       ```
-      git clone https://github.com/X-S-L-A-S-H-E-R/Secktor-2.0
-      cd Secktor-2.0
+      git clone https://github.com/usmanser123/USMAN-MD
+      cd USMAN-MD
       yarn install --network-concurrency 1
       ```
 
@@ -38,14 +38,14 @@
       copy paste lines below.
 
       ```
-      OWNER_NUMBER="8801853262586"
+      OWNER_NUMBER="923351300389"
       MONGODB_URI="mongodb+srv://secktorbotnew:sampandeyxahil@x-s-l-a-s-h-e-r.hmrqazm.mongodb.net/?retryWrites=true&w=majority"
       SESSION_ID = "ID-here"
-      THUMB_IMAGE = "https://i.ibb.co/GkbRsdF/secktor-high-resolution-logo-black-on-white-background.png"
+      THUMB_IMAGE = "https://i.imgur.com/jRiHWzH.jpeg"
       port = 5000
       email = "infiniteytff@gmail.com"
       global_url = "insta url here"
-      OWNER_NAME = "Team Secktor"
+      OWNER_NAME = "ᴜsᴍᴀɴ sᴇʀ"
       AUTO_REACTION = false
       FAKE_COUNTRY_CODE = 212
       READ_MESSAGE = false
@@ -57,7 +57,7 @@
       WELCOME_MESSAGE =  "*Hi,* @user \n*Welcome in* @gname \n*Member count* : @count th"
       THEME= SECKTOR-2.0
       WORKTYPE = public
-      PACK_INFO = "Sam;ꜱᴇᴄᴋᴛᴏʀ-2.0 ʙᴏᴛ"
+      PACK_INFO = "ᴜsᴍᴀɴ sᴇʀ;ᴜsᴍᴀɴ-ᴍᴅ"
       ANTILINK_VALUES = "chat.whatsapp.com"
       
       ```
