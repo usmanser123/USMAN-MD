@@ -10,7 +10,7 @@
  It is supplied in the hope that it may be useful                                     
  * @project_name : USMAN-MD                                                                   
  * @author : usmanser123 <https://github.com/usmanser123>   
- * @description : USMAN-MD ,A Multi-functional whatsapp bot.       
+ * @description : USMAN-MD ,A  Multi-functional whatsapp bot.       
  * @version 1.0.1                                                                                             
  ========================================================
  **/
