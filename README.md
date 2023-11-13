@@ -21,4 +21,4 @@ Fork Repo
 
 ### `𝘚𝘱𝘦𝘤𝘪𝘢𝘭 𝘛𝘩𝘢𝘯𝘬𝘴 𝘛𝘰`
 - ***[Sam Pandey](https://github.com/SamPandey001)***
-- ***[MNaveed Dogar](https://github.com/naveeddogar)***
+- ***[Naveed Dogar](https://github.com/naveeddogar)***
