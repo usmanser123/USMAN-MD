@@ -19,3 +19,7 @@
 Fork Repo 
 
 
+### `𝘚𝘱𝘦𝘤𝘪𝘢𝘭 𝘛𝘩𝘢𝘯𝘬𝘴 𝘛𝘰`
+- ***[Suhail Tech Info](https://github.com/SuhailTechInfo)***
+- ***[Maher-Zubair](https://github.com/Maher-Zubair)***
+- ***[Sam Pandey](https://github.com/SamPandey001)***
