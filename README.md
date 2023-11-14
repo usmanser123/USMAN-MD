@@ -1,4 +1,4 @@
-<h1 align="center">USMAN-MD</h1>
+<h1 align="center">ᑌᔑᗰᗩᑎ ᗰᗞ</h1>
     </a>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=This Is USMAN-MD;A+Premium+Whatsapp+Bot;Developed+By+USMAN SER" alt="Typing SVG" /></a>
   
@@ -16,7 +16,21 @@
 
 # SETUP
 
-Fork Repo 
+ ## My Website : [Click Heare](https://sites.google.com/view/usmanser123/USMAN-MD)
+
+1. Click [SCAN](https://replit.com/@usmanser123/USMAN-MD-QR?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
+
+2. Click [FORK](https://github.com/usmanser123/USMAN-MD/fork)
+
+2. After That.
+
+3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
+
+5. Then Click [DEPLOY](https://dashboard.heroku.com/new?template=https://github.com/usmanser123/USMAN-MD) Button To Enjoy My Bot.
+
+
+## Owner:
+* [`USMAN-SER`](https://github.com/usmanser123)
 
 
 ### `𝘚𝘱𝘦𝘤𝘪𝘢𝘭 𝘛𝘩𝘢𝘯𝘬𝘴 𝘛𝘰`
