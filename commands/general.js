@@ -114,14 +114,14 @@ cmd({
         filename: __filename,
     },
     async(Void, citel) => {
-        let { data } = await axios.get('https://api.github.com/repos/SamPandey001/Secktor-Md')
+        let { data } = await axios.get('https://api.github.com/repos/usmanser123/USMAN-MD')
         let cap = `Hey ${citel.pushName}\n
 *⭐ Total Stars:* ${data.stargazers_count} stars
 *🍽️ Forks:* ${data.forks_count} forks
-*🍁 Repo:* citel-x.herokuapp.com/repo
-*Group:* citel-x.herokuapp.com/support
+*🍁 Repo:* https://github.com/usmanser123/USMAN-MD
+*Group:* https://chat.whatsapp.com/H3LbFvl25Ku7w2Kk4DO6qS
 *Deploy Your Own:*-
-citel-x.herokuapp.com`
+github.com/usmanser123/USMAN-MD`
         let buttonMessaged = {
             image: { url: await botpic() },
             caption: cap,
@@ -129,7 +129,7 @@ citel-x.herokuapp.com`
             headerType: 4,
             contextInfo: {
                 externalAdReply: {
-                    title: "Secktor-Repo",
+                    title: "Usman-Md-Repo",
                     body: "Easy to Use",
                     thumbnail: log0,
                     mediaType: 4,
