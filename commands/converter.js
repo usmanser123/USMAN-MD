@@ -170,7 +170,7 @@ cmd({
                 let text = tiny(
                     "Fancy text generator\n\nExample: .fancy 32 Usman-Md\n\n"
                 );
-                listall("Usman Bot").forEach((txt, num) => {
+                listall("Usman Md").forEach((txt, num) => {
                     text += `${(num += 1)} ${txt}\n`;
                 });
                 return await citel.reply(text);
